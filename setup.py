@@ -23,6 +23,7 @@ setup(
     url = "https://github.com/bishal1995/pykhoj"
     author = ["Bishal Paul","Sagar Kar"],
     author_email = ["bishalpaul1905@gmail.com","sagarkar10@gmail.com"],
+
     classifiers=[
                 #   3 - Alpha
                 #   4 - Beta
