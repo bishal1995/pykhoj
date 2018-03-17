@@ -45,7 +45,7 @@ setup(
                 'Programming Language :: Python :: 3.5',
                 'Programming Language :: Python :: 3.6',
             ],
-    packages=find_packages(exclude=['contrib', 'docs', 'tests']),  # Required
+    packages=find_packages(exclude=['tests']),  # Required
     # Include other packeges that pykhoj depends on
     install_requires=[],
     # Include optional data files needed for package
